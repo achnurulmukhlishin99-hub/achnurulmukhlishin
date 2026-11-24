@@ -17,4 +17,4 @@ export const projects = [
   { tag:'Web', title:'Sistem Informasi Perpustakaan Berbasis Web', desc:'Sistem informasi untuk membantu pengelolaan data buku, anggota, dan peminjaman.', preview:'projects/perpustakaan.svg' },
   { tag:'IoT', title:'EchoSmart – Sistem Manajemen Sampah Berbasis IoT', desc:'Konsep sistem pengelolaan sampah terintegrasi menggunakan teknologi IoT dan pemantauan kapasitas tempat sampah.', preview:'projects/echosmart.svg' },
   { tag:'Python', title:'Pengolahan Citra Digital', desc:'Praktik pengolahan citra menggunakan Python, OpenCV, konvolusi, dan teknik restorasi citra.', preview:'projects/citra.svg' }]
-export const contact = { email:'mailto:emailanda@example.com', wa:'https://wa.me/6281234567890', github:'https://github.com/usernameanda', ig:'https://instagram.com/usernameanda' }
+export const contact = { email:'mailto:achnurulmukhlishin99@gmail.com', wa:'https://wa.me/6285932228064', github:'https://github.com/achnurulmukhlishin99-hub', ig:'https://instagram.com/ms.ulull' }
