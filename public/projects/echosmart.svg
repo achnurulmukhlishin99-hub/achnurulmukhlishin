@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#edf4f0"/>
+  <rect width="800" height="58" fill="#10231a"/>
+  <text x="42" y="37" fill="#fff" font-family="Arial" font-size="20" font-weight="700">EchoSmart IoT</text>
+  <rect x="650" y="16" width="110" height="26" rx="13" fill="#10b981"/>
+  <rect x="42" y="88" width="716" height="128" rx="16" fill="#fff"/>
+  <text x="72" y="125" fill="#667085" font-family="Arial" font-size="14">Kapasitas Sampah</text><text x="72" y="174" fill="#10231a" font-family="Arial" font-size="38" font-weight="700">68%</text>
+  <rect x="270" y="142" width="420" height="18" rx="9" fill="#dbe5df"/><rect x="270" y="142" width="286" height="18" rx="9" fill="#10b981"/>
+  <rect x="42" y="238" width="342" height="220" rx="16" fill="#10231a"/>
+  <circle cx="213" cy="348" r="62" fill="none" stroke="#2a4938" stroke-width="18"/><circle cx="213" cy="348" r="62" fill="none" stroke="#10b981" stroke-width="18" stroke-dasharray="230 390" stroke-linecap="round" transform="rotate(-90 213 348)"/>
+  <text x="213" y="355" text-anchor="middle" fill="#fff" font-family="Arial" font-size="26" font-weight="700">70%</text>
+  <rect x="406" y="238" width="352" height="220" rx="16" fill="#fff"/>
+  <text x="434" y="278" fill="#172033" font-family="Arial" font-size="16" font-weight="700">Status Perangkat</text>
+  <circle cx="450" cy="326" r="8" fill="#10b981"/><text x="470" y="332" fill="#667085" font-family="Arial" font-size="15">Sensor aktif</text>
+  <circle cx="450" cy="372" r="8" fill="#2563eb"/><text x="470" y="378" fill="#667085" font-family="Arial" font-size="15">Data tersinkron</text>
+  <circle cx="450" cy="418" r="8" fill="#f59e0b"/><text x="470" y="424" fill="#667085" font-family="Arial" font-size="15">Baterai 82%</text>
+</svg>

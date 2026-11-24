@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500">
+  <rect width="800" height="500" fill="#f4f7fb"/>
+  <rect width="800" height="58" fill="#0b1220"/>
+  <circle cx="34" cy="29" r="14" fill="#2563eb"/><text x="58" y="37" fill="#fff" font-family="Arial" font-size="20" font-weight="700">ANM UMROH</text>
+  <rect x="570" y="16" width="90" height="26" rx="13" fill="#2563eb"/><rect x="680" y="16" width="70" height="26" rx="13" fill="#1e293b"/>
+  <rect x="50" y="92" width="700" height="130" rx="16" fill="#dbeafe"/>
+  <text x="82" y="139" fill="#0b1220" font-family="Arial" font-size="18" font-weight="700">Dashboard Manajemen Umroh</text>
+  <text x="82" y="176" fill="#667085" font-family="Arial" font-size="15">Pantau jamaah, perjalanan, dan administrasi</text>
+  <rect x="82" y="190" width="140" height="12" rx="6" fill="#2563eb"/>
+  <rect x="50" y="248" width="220" height="190" rx="14" fill="#fff"/><rect x="290" y="248" width="220" height="190" rx="14" fill="#fff"/><rect x="530" y="248" width="220" height="190" rx="14" fill="#fff"/>
+  <text x="76" y="292" fill="#667085" font-family="Arial" font-size="14">Total Jamaah</text><text x="76" y="342" fill="#0b1220" font-family="Arial" font-size="38" font-weight="700">248</text>
+  <text x="316" y="292" fill="#667085" font-family="Arial" font-size="14">Paket Aktif</text><text x="316" y="342" fill="#0b1220" font-family="Arial" font-size="38" font-weight="700">12</text>
+  <text x="556" y="292" fill="#667085" font-family="Arial" font-size="14">Keberangkatan</text><text x="556" y="342" fill="#0b1220" font-family="Arial" font-size="38" font-weight="700">06</text>
+</svg>
