@@ -17,7 +17,12 @@ Tanpa Supabase, komentar hanya tersimpan di browser masing-masing.
 
 ## Online
 Repository ini disiapkan untuk deployment otomatis ke GitHub Pages melalui GitHub Actions.
-Setelah workflow deployment pertama berhasil, website dapat dibuka di:
+Sebelum deployment pertama:
+1. Buka **Settings > Pages** di repository.
+2. Pada **Build and deployment**, pilih **GitHub Actions** sebagai **Source**.
+3. Simpan perubahan, lalu push ke branch `main` (atau jalankan workflow dari tab **Actions**).
+
+Setelah workflow **Deploy to GitHub Pages** berhasil, website dapat dibuka di:
 https://achnurulmukhlishin99-hub.github.io/achnurulmukhlishin/
 
 Repository:
