@@ -2,7 +2,7 @@
 
 ## Menjalankan
 1. Pasang Node.js (nodejs.org), lalu di terminal folder ini: `npm install`
-2. `npm run dev` lalu buka alamat yang tampil (biasanya http://localhost:5173)
+2. `npm run dev` lalu buka alamat yang tampil di terminal. Untuk melihat portofolio online, buka [alamat portofolio](https://achnurulmukhlishin99-hub.github.io/achnurulmukhlishin/).
 
 ## Mengganti isi
 - Teks proyek, pengalaman, keterampilan, dan kontak: `src/data.js`
